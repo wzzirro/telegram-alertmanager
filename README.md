@@ -53,3 +53,11 @@ receivers:
 The API will retrieve the description part of the `prometheus.rules.yaml` file, so you must write down your alerts information there on prometheus side.
 
 You should be able to see your beautiful and well-integrated alerts showing up on your own Telegram channel thereafter.
+
+
+# TODO
+
+* Add proxy support
+* Add health page
+* Small refactor
+* Add helm chart / k8s deployment
