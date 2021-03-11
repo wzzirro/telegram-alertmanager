@@ -61,3 +61,4 @@ You should be able to see your beautiful and well-integrated alerts showing up o
 * Add health page
 * Small refactor
 * Add helm chart / k8s deployment
+* Add full [API](https://prometheus.io/docs/alerting/latest/configuration/#webhook_config) support
